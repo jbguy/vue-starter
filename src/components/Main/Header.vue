@@ -23,6 +23,7 @@ export default {
     data() {
         return {
             navItems: []
+            // My items in the navbar
             // navItems: [{
             //     name: 'Generator', 
             //     routerLink: '/generator'
